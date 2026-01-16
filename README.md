@@ -47,7 +47,7 @@ This design ensures:
 ---
 
 ## Current Limitations
-
+- Works only on LAN currently, can be combined with third party softwares for WAN 
 - No peer authentication (vulnerable to MITM)
 - No protocol versioning
 - Graceful connection teardown still being improved
